@@ -19,5 +19,5 @@
 
 
   app.listen(5000,'0.0.0.0', () => {
-    console.log('Server is running on port 5000, hahahaha, welcome to helm charts last updated - 21 july 2025')
+    console.log('Server is running on port 5000, hahahaha, welcome to helm charts last updated - 3rd August 2025')
   })
